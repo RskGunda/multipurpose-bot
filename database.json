@@ -1,0 +1,736 @@
+{
+    "guilds": {
+        "1068131925425922088": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1070018946004176916"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "Hey <<user.mention>> Welcome",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1059713051554742322": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1059713157582565416": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1059713141564514374": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1059565518559920169": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1059671596681404436": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "877276106745593926": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1093667324587950232": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "877837063532191775": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "787725745723408455": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1107568239048921090": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1078201324954460180": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1015076487390560298": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "946747493650169907": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1080741890380550235": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1071807677145030857": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1207725930680680468": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1208420021353717841"
+                ],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "https://media.discordapp.net/attachments/1208420524036726794/1208421500789596182/ufDOUqH.webp?ex=65e33939&is=65d0c439&hm=76fc22401bf3ebf505fb4d0c560570c01fb6384c4e465dffe2dfe717bc5fb8eb&=&format=webp&width=1287&height=643",
+                "message": "greet message add <<user.name>> thx for joining the server hope you will enjoy here !!",
+                "ping": true,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1107901317877338174": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1208026375743868988": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1208726684191297536": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [
+                    "1208776478947545179"
+                ],
+                "color": "",
+                "embed": true,
+                "footer": "",
+                "image": "",
+                "message": "greet message  <<user.name>>\na new user has arrived !!\n\n｡ﾟ•┈୨♡୧┈• ｡ﾟ\n✦꒰─ read the rules in ⁠├・❄・rules\n✦꒰─ here to order? head to ⁠ ⁠╰・❄・tickets\n✦꒰─ chat with us in ⁠╭・🎄・chat ⁠ !\n｡ﾟ•┈୨♡୧┈• ｡ﾟ",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1197900561652133948": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        },
+        "1179478468757569708": {
+            "welcome": {
+                "autodel": 0,
+                "channel": [],
+                "color": "",
+                "embed": false,
+                "footer": "",
+                "image": "",
+                "message": "<<user.mention>> Welcome To <<server.name>>",
+                "ping": false,
+                "title": "",
+                "thumbnail": ""
+            },
+            "autorole": {
+                "bots": [],
+                "humans": []
+            },
+            "vcrole": {
+                "bots": "",
+                "humans": ""
+            },
+            "logging": {
+                "logall": false,
+                "channel": [],
+                "msglog": [],
+                "memberlog": [],
+                "serverlog": [],
+                "rolelog": [],
+                "channellog": [],
+                "modlog": [],
+                "voicelog": []
+            }
+        }
+    }
+}
